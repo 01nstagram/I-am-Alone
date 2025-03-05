@@ -1,7 +1,7 @@
 
 # I am Alone is a Site Cloner tools 
 
-![Site Cloner Banner](https://via.placeholder.com/800x200.png?text=Site+Cloner+Tool) <!-- Adicione uma imagem ou banner se desejar -->
+![Site Cloner Banner](Screenshot_2025-03-05-02-22-36-156_com.termux.png) <!-- Adicione uma imagem ou banner se desejar -->
 
 Este é um script em **Node.js** que permite clonar sites usando o comando `wget`. Ele cria uma pasta chamada **"Sites"** e move todos os arquivos clonados para lá. O script também inclui uma arte ASCII estilizada e mensagens coloridas no terminal para melhorar a experiência do usuário.
 
